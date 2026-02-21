@@ -1,5 +1,17 @@
 다음은 AWS SAP 영상강의 대본이야. 마크다운으로 정리해줘. 알기쉽게 정리하는건 좋은데 너무 생략해서는 안돼.
 
+섹션3
+04.IAM.md
+05.IAM-Access-Analyzer.md
+06.STS.md
+07.자격증명-페더레이션&Cognito.md
+08.AWS-디렉터리-서비스.md
+09.AWS-Organizations.md
+10.AWS-Organizations-Policies.md
+11.AWS-IAM-Identity-Center.md
+12.AWS-컨트롤-타워.md
+13.AWS-리소스-액세스-매니저-RAM.md
+14.Identity-및-Federation-요약.md
 
 섹션4
 15.CloudTrail.md
