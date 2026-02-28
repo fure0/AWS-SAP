@@ -44,7 +44,7 @@
   ### (AWS) Shield
   > DDoS 공격으로부터 애플리케이션을 보호하는 관리형 DDoS 방어 서비스
 
-  ### (AWS) WAF
+  ### (AWS) WAF (Web Application Firewall)
   > 웹 애플리케이션에 대한 SQL 인젝션, XSS 등을 차단하는 웹 방화벽 서비스
 
   ### Firewall Manager
@@ -105,7 +105,7 @@
 
 ## 6.스토리지
 
-  ### (Amazon) EFS
+  ### (Amazon) EFS (Elastic File System)
   > 여러 EC2 인스턴스에서 동시에 마운트 가능한 탄력적 NFS 파일 스토리지
 
   ### (Amazon) S3
@@ -167,13 +167,13 @@
   ### Kinesis Data Anaytics
   > 스트리밍 데이터에 대해 SQL 또는 애플리케이션으로 실시간 분석을 수행하는 서비스
 
-  ### (Amazon) MSK
+  ### (Amazon) MSK (Managed Streaming for Apache Kafka)
   > Apache Kafka 클러스터를 완전관리형으로 제공하는 스트리밍 플랫폼
 
   ### (AWS) Batch
   > 대규모 배치 컴퓨팅 작업을 자동으로 스케줄링·스케일링해 실행하는 서비스
 
-  ### (Amazon) EMR
+  ### (Amazon) EMR (Elastic Map Reduce)
   > Hadoop, Spark 등 빅데이터 프레임워크를 관리형 클러스터로 제공하는 분석 플랫폼
 
   ### (AWS) Glue
