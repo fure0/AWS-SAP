@@ -3,7 +3,7 @@
   ### IAM (Identity and Access Management)
   > AWS 리소스에 대한 사용자, 그룹, 역할 및 권한을 중앙에서 관리하는 서비스
 
-  ### IAM Access Anayzer
+  ### IAM Access Analyzer
   > S3, IAM, KMS 등 리소스가 외부에 과도하게 공개되어 있는지 분석해 주는 보안 점검 도구
 
   ### STS (Security Token Service)
@@ -73,10 +73,10 @@
   ### ECR (Elastic Container Registry)
   > Docker 컨테이너 이미지를 저장·버전 관리하는 완전관리형 컨테이너 레지스트리
 
-  ### EKS (Ekastic Kubernetes)
+  ### EKS (Elastic Kubernetes)
   > Kubernetes 클러스터의 컨트롤 플레인을 AWS가 대신 운영해 주는 관리형 K8s 서비스
 
-  ### (AWS)-App-Runnber
+  ### (AWS) App Runner
   > 컨테이너나 소스 코드만 올리면 자동으로 스케일링되는 웹 애플리케이션 실행 서비스
 
   ### (AWS) Lambda
@@ -97,7 +97,7 @@
   ### (AWS) Outposts
   > AWS 인프라와 서비스를 온프레미스에 설치해 하이브리드 클라우드를 구성하는 서비스
 
-  ### (AWS) WaveLength
+  ### (AWS) Wavelength
   > 통신사 5G 엣지 로케이션에서 초저지연 애플리케이션을 실행할 수 있게 하는 서비스
 
   ### (AWS) LocalZones
@@ -111,7 +111,7 @@
   ### (Amazon) S3
   > 대용량 객체를 안전하게 저장하고 버전 관리·수명주기 정책을 제공하는 객체 스토리지
 
-  ### (Amazon) Fsx
+  ### (Amazon) FSx
   > Windows, NetApp, Lustre 등 특수 파일시스템을 관리형으로 제공하는 고성능 파일 스토리지
 
   ### (AWS) DataSync
@@ -125,7 +125,7 @@
   ### Lambda Edge
   > CloudFront 엣지 위치에서 요청·응답을 가공하는 서버리스 함수 실행 기능
 
-  ### (Amazon) ElasticCache
+  ### (Amazon) ElastiCache
   > Redis 또는 Memcached 기반 인메모리 캐시를 관리형으로 제공하는 서비스
 
 ## 8.데이터베이스
@@ -164,7 +164,7 @@
   ### Kinesis Data Firehose
   > 스트리밍 데이터를 S3, Redshift, OpenSearch 등 대상으로 자동 적재하는 서비스
 
-  ### Kinesis Data Anaytics
+  ### Kinesis Data Analytics
   > 스트리밍 데이터에 대해 SQL 또는 애플리케이션으로 실시간 분석을 수행하는 서비스
 
   ### (Amazon) MSK (Managed Streaming for Apache Kafka)
@@ -191,7 +191,7 @@
   ### (Amazon) Athena
   > S3에 저장된 데이터를 서버리스로 바로 SQL 쿼리할 수 있는 대화형 쿼리 서비스
 
-  ### (Amazon) Quick Sight
+  ### (Amazon) QuickSight
   > 대시보드와 시각화를 제공하는 서버리스 BI(비즈니스 인텔리전스) 서비스
 
 ## 11.모니터링
@@ -219,10 +219,10 @@
   ### 서비스 카탈로그
   > 승인된 템플릿·제품 카탈로그를 통해 표준화된 인프라를 배포하게 해주는 서비스
 
-  ### 서버리스 애플리케이션 모딜(SAM)
+  ### 서버리스 애플리케이션 모델(SAM)
   > CloudFormation 확장을 이용해 서버리스 애플리케이션을 쉽게 정의·배포하는 프레임워크
 
-  ### (AWS) 클라우드 개발 키드(CDK)
+  ### (AWS) 클라우드 개발 키트(CDK)
   > 프로그래밍 언어로 인프라를 정의하고 CloudFormation 템플릿으로 변환해 배포하는 IaC 도구
 
   ### (AWS) Systems Manager(SSM)
@@ -259,10 +259,10 @@
   ### Database Migration Service(DMS)
   > 서로 다른 데이터베이스 간에 최소 다운타임으로 데이터를 마이그레이션하는 서비스
 
-  ### 클리우드 도입 준비 도구 (CART)
+  ### 클라우드 도입 준비 도구 (CART)
   > 조직의 클라우드 도입 준비 상태를 평가하는 진단·평가 도구
 
-  ### VM migrations Services
+  ### VM Migration Services
   > 온프레미스 또는 타 클라우드의 VM을 AWS로 이전하는 마이그레이션 서비스
 
   ### (AWS) Backup
@@ -273,7 +273,7 @@
   ### VPC
   > 격리된 가상 네트워크를 구성해 서브넷, 라우팅, 보안 그룹 등을 제어하는 네트워크 서비스
 
-  ### Transit GateWay
+  ### Transit Gateway
   > 여러 VPC와 온프레미스 네트워크를 허브-스포크 구조로 연결해 라우팅을 단순화하는 서비스
 
   ### 엔드 포인트
@@ -317,7 +317,7 @@
   ### SageMaker
   > 머신러닝 모델을 구축·학습·튜닝·배포하는 통합 ML 플랫폼
 
-  ### Forcast
+  ### Forecast
   > 시계열 데이터를 이용해 수요 예측 등을 수행하는 예측 분석 서비스
 
   ### Kendra
