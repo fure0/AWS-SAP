@@ -1,3 +1,5 @@
+# EventBridge와 API Gateway를 사용한 Lambda 호출 전략 차이
+
 EventBridge와 API Gateway는 **Lambda를 호출하는 목적과 트래픽 성격이 완전히 다를 때** 선택이 갈립니다. 아래에서 **호출 전략 관점**으로 정리해볼게요.
 
 ---

@@ -1,3 +1,5 @@
+# Kinesis 란?
+
 **Amazon Web Services(AWS)의 Kinesis**는
 👉 **실시간(Real-time)으로 대량의 데이터를 수집·처리·분석하기 위한 스트리밍 데이터 플랫폼**이에요.
 
